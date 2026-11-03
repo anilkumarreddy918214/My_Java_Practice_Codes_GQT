@@ -6,6 +6,8 @@ public class Prog_1 {
 		// TODO Auto-generated method stub
 		System.out.println("Helloo....");
 
+		System.out.println("welcome....");
+
 	}
 
 }
